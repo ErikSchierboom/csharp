@@ -2,7 +2,7 @@
 
 We are going to do the `Transform` step of an Extract-Transform-Load.
 
-### ETL
+## ETL
 
 Extract-Transform-Load (ETL) is a fancy way of saying, "We have some crufty, legacy data over in this system, and now we need it in this shiny new system over here, so
 we're going to migrate this."
@@ -11,7 +11,7 @@ we're going to migrate this."
 once." That's then typically followed by much forehead slapping and
 moaning about how stupid we could possibly be.)
 
-### The goal
+## The goal
 
 We're going to extract some scrabble scores from a legacy system.
 
@@ -39,7 +39,7 @@ input letters:
 Your mission, should you choose to accept it, is to transform the legacy data
 format to the shiny new format.
 
-### Notes
+## Notes
 
 A final note about scoring, Scrabble is played around the world in a
 variety of languages, each with its own unique scoring table. For
