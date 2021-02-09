@@ -6,9 +6,9 @@ Four roommates have a habit of borrowing money from each other frequently, and h
 
 Your task is to implement a simple [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer) that receives [IOU](https://en.wikipedia.org/wiki/IOU)s as POST requests, and can deliver specified summary information via GET requests.
 
-### API Specification
+## API Specification
 
-#### User object
+### User object
 ```json
 {
   "name": "Adam",
@@ -25,7 +25,7 @@ Your task is to implement a simple [RESTful API](https://en.wikipedia.org/wiki/R
 }
 ```
 
-#### Methods
+### Methods
 
 | Description | HTTP Method | URL | Payload Format | Response w/o Payload | Response w/ Payload |
 | --- | --- | --- | --- | --- | --- |
