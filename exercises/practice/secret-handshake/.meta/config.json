@@ -1,6 +1,36 @@
 {
   "blurb": "Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "mikecoop"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "bressain"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "sjwarner-bp"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "SecretHandshake.cs"

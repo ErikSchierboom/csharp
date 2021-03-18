@@ -1,6 +1,27 @@
 {
   "blurb": "Create an implementation of the Affine cipher, an ancient encryption algorithm from the Middle East.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "davidelettieri"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "Zureka"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "AffineCipher.cs"

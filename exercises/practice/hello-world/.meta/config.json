@@ -1,6 +1,21 @@
 {
   "blurb": "The classical introductory exercise. Just say \"Hello, World!\"",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "robkeim"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "j2jensen"
+    }
+  ],
   "files": {
     "solution": [
       "HelloWorld.cs"

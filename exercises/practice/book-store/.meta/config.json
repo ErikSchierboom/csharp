@@ -1,6 +1,30 @@
 {
   "blurb": "To try and encourage more sales of different books from a popular 5 book series, a bookshop has decided to offer discounts of multiple-book purchases.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "robkeim"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "tomschluter"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "AndrewYHuang"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "BookStore.cs"

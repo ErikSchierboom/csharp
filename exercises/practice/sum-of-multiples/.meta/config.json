@@ -1,6 +1,30 @@
 {
   "blurb": "Given a number, find the sum of all the multiples of particular numbers up to but not including that number.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "FridaTveit"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "SumOfMultiples.cs"

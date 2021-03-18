@@ -1,6 +1,45 @@
 {
   "blurb": "Implement a clock that handles times without dates.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "mattcbaker"
+    },
+    {
+      "github_username": "Thorocaine"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "avjgit"
+    },
+    {
+      "github_username": "bmeverett"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "vgrigoriu"
+    },
+    {
+      "github_username": "vamcs"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "Clock.cs"

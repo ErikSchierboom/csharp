@@ -1,6 +1,39 @@
 {
   "blurb": "Convert a trinary number, represented as a string (e.g. '102012'), to its decimal equivalent using first principles.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "bressain"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "balazsbotond"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "ChrisPritchard"
+    },
+    {
+      "github_username": "B1tF8er"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "Trinary.cs"

@@ -1,6 +1,23 @@
 {
   "blurb": " Given the size, return a square matrix of numbers in spiral order.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "SpiralMatrix.cs"

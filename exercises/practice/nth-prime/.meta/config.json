@@ -1,6 +1,30 @@
 {
   "blurb": "Given a number n, determine what the nth prime is.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "bressain"
+    },
+    {
+      "github_username": "jmbradnan"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "NthPrime.cs"

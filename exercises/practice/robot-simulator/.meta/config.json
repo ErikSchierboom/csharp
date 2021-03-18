@@ -1,6 +1,33 @@
 {
   "blurb": "Write a robot simulator.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "bressain"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "GKotfis"
+    },
+    {
+      "github_username": "abecerramatias"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "RobotSimulator.cs"

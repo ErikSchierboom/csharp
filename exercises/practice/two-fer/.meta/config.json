@@ -1,6 +1,35 @@
 {
   "blurb": "Create a sentence of the form \"One for X, one for me.\"",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "Zureka"
+    },
+    {
+      "github_username": "sjwarner"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "NextNebula"
+    },
+    {
+      "github_username": "dmahnkopf"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "TwoFer.cs"

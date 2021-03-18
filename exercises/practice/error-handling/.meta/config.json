@@ -1,6 +1,30 @@
 {
   "blurb": "Implement various kinds of error handling and resource management",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "robkeim"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "balazsbotond"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "felix91gr"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "ErrorHandling.cs"

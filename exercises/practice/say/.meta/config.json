@@ -1,6 +1,27 @@
 {
   "blurb": "Given a number from 0 to 999,999,999,999, spell out that number in English.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "tomschluter"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "Say.cs"

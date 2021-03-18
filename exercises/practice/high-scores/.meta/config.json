@@ -1,6 +1,36 @@
 {
   "blurb": "Manage a player's High Score list",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "vgrigoriu"
+    },
+    {
+      "github_username": "wolf99"
+    },
+    {
+      "github_username": "valentin-p"
+    },
+    {
+      "github_username": "pjangam"
+    }
+  ],
   "files": {
     "solution": [
       "HighScores.cs"
