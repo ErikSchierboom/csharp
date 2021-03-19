@@ -1,6 +1,21 @@
 {
   "blurb": "Write a Domain Specific Language similar to the Graphviz dot language",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "DotDsl.cs"

@@ -1,6 +1,33 @@
 {
   "blurb": "There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product a * b * c.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "bressain"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "joostas"
+    },
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "sjwarner"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "PythagoreanTriplet.cs"

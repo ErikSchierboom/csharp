@@ -1,6 +1,20 @@
 {
   "blurb": "Determine if a number is an Armstrong number",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "ArmstrongNumbers.cs"

@@ -1,6 +1,15 @@
 {
   "blurb": "Convert color codes, as used on resistors, to a human-readable label.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "valentin-p"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
   "files": {
     "solution": [
       "ResistorColorTrio.cs"

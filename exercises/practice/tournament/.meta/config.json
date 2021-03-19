@@ -1,6 +1,33 @@
 {
   "blurb": "Tally the results of a small football competition.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "pminten"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "bressain"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "GKotfis"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "Tournament.cs"

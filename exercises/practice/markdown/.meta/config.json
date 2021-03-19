@@ -1,6 +1,24 @@
 {
   "blurb": "Refactor a Markdown parser",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "balazsbotond"
+    },
+    {
+      "github_username": "bcwood"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    }
+  ],
   "files": {
     "solution": [
       "Markdown.cs"

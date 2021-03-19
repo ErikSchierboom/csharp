@@ -1,6 +1,27 @@
 {
   "blurb": "Simulate a bank account supporting opening/closing, withdraws, and deposits of money. Watch out for concurrent transactions!",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "robkeim"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AndrewYHuang"
+    },
+    {
+      "github_username": "artiom"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "BankAccount.cs"
