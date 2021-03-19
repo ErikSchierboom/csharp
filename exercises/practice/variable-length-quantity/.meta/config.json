@@ -1,6 +1,24 @@
 {
   "blurb": "Implement variable length quantity encoding and decoding.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "nicolastarzia"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "VariableLengthQuantity.cs"

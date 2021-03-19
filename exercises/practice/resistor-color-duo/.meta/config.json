@@ -1,6 +1,15 @@
 {
   "blurb": "Convert color codes, as used on resistors, to a numeric value.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "aes421"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
   "files": {
     "solution": [
       "ResistorColorDuo.cs"

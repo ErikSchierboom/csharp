@@ -1,6 +1,30 @@
 {
   "blurb": "Make sure the brackets and braces all match.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "martinfreedman"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "SleeplessByte"
+    },
+    {
+      "github_username": "vgrigoriu"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "MatchingBrackets.cs"

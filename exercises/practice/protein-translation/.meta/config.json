@@ -1,6 +1,21 @@
 {
   "blurb": "Translate RNA sequences into proteins.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "robkeim"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "ProteinTranslation.cs"

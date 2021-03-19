@@ -1,6 +1,27 @@
 {
   "blurb": "Insert and search for numbers in a binary tree.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "bressain"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "ShamilS"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "BinarySearchTree.cs"

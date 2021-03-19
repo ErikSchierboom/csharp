@@ -1,6 +1,21 @@
 {
   "blurb": "Creating a zipper for a binary tree.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ErikSchierboom"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "Zipper.cs"

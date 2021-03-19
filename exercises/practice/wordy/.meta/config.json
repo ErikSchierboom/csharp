@@ -1,6 +1,33 @@
 {
   "blurb": "Parse and evaluate simple math word problems returning the answer as an integer.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "bressain"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "deniscapeto"
+    },
+    {
+      "github_username": "ErikSchierboom"
+    },
+    {
+      "github_username": "j2jensen"
+    },
+    {
+      "github_username": "jwood803"
+    },
+    {
+      "github_username": "robkeim"
+    },
+    {
+      "github_username": "tushartyagi"
+    },
+    {
+      "github_username": "wolf99"
+    }
+  ],
   "files": {
     "solution": [
       "Wordy.cs"
